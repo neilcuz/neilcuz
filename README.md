@@ -1,4 +1,4 @@
-### Hello 👋
+## Hello 👋
 
 Hi, I'm Neil, a freelance data professional from Scotland living in Glasgow. I love all things coding and data.
 
