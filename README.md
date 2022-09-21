@@ -1,6 +1,6 @@
 ## Hello 👋
 
-Hi, I'm Neil, a freelance data professional living in Glasgow. I love all things coding and data. I led analysis teams across government for a number of years, using data analysis, machine learning and other techniques to help government make better decisions.
+Hi, I'm Neil, a freelance data professional living in Glasgow. Before this, I led analysis teams across government for a number of years, using data analysis, machine learning and other techniques to help government make better decisions. I love all things coding and data.
 
 ## Currently working on
 
